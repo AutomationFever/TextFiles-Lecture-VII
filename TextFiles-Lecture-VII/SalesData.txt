@@ -1,0 +1,711 @@
+Date	Rep	Region	Order Status	Product	Cost	Units	Total
+01-01-2019	Ramdin Verma	East	Shipped	Pencil	3	36	108
+01-02-2019	Sharat Chandran	East	Shipped	Pencil	3	95	285
+01-03-2019	Birender Mandal	West	Shipped	Binder	5	50	250
+01-04-2019	Kamal	East	Shipped	Binder	5	60	300
+01-05-2019	Vikram Singh	West	Shipped	Binder	5	27	135
+01-06-2019	Ram Dutt Gupta	West	Shipped	Pencil	3	56	168
+01-07-2019	Khadak Singh	North	Shipped	Pencil	3	90	270
+01-08-2019	Gurmit Singh	East	Shipped	Pencil	3	75	225
+01-09-2019	Nahar Singh	East	Canceled	Pencil	3	32	96
+01-10-2019	Ram Kumar	North	Shipped	Pen	2	74	148
+01-11-2019	Sunder Paal	East	Canceled	Binder	5	60	300
+01-12-2019	Maansingh Aswal	West	Shipped	Desk	275	2	550
+13-01-2019	Punit Khandelwal	North	Pending	Pencil	3	90	270
+14-01-2019	Arvind Kumar Yadav	East	Pending	Binder	5	29	145
+15-01-2019	Najim	East	Pending	Desk	275	1	275
+16-01-2019	Ram	East	Canceled	Pencil	3	20	60
+17-01-2019	Shiv Shakti Singh	East	Backorder	Pencil	3	35	105
+18-01-2019	Moti Lal	West	Backorder	Binder	5	81	405
+19-01-2019	Kausal Kumar	Central	Shipped	Desk	275	2	550
+20-01-2019	Shahbaz	East	Backorder	Desk	275	3	825
+11-01-2020	Raj Kumar	West	Canceled	Pen	2	56	112
+11-02-2020	Jaswant Singh	Central	Shipped	Binder	5	28	140
+11-03-2020	Kali	East	Backorder	Pencil	3	12	36
+11-04-2020	Ram Singh	East	Shipped	Pen Set	5	16	80
+11-05-2020	Preetam Kumar	East	Shipped	Pen Set	5	48	240
+11-06-2020	Raja	East	Pending	Pen	2	64	128
+11-07-2020	Pankaj Kumar	East	Pending	Pen	2	15	30
+11-08-2020	Sam	East	Pending	Binder	5	71	355
+11-09-2020	Riyasat Ali	West	Shipped	Pen Set	5	96	480
+11-10-2020	Rani	West	Shipped	Desk	275	2	550
+11-11-2020	Kali Charan	East	Canceled	Pencil	3	67	201
+11-12-2020	Badshya Khan	East	Shipped	Pen Set	5	74	370
+13-11-2020	Devinder Chadda	West	Shipped	Desk	275	5	1375
+14-11-2020	Mohan Singh	East	Backorder	Binder	5	46	230
+15-11-2020	Yash Mittal	East	Pending	Pen Set	5	99	495
+16-11-2020	Mala	East	Shipped	Pen	2	41	82
+17-11-2020	Ram Dutt Gupta	East	Canceled	Desk	275	1	275
+18-11-2020	Raj Kumar	East	Shipped	Binder	5	87	435
+19-11-2020	Shiv Shakti Singh	East	Pending	Pen Set	5	62	310
+20-11-2020	Paul	East	Shipped	Binder	5	4	20
+21-11-2020	Pooran Chand Sharma	East	Shipped	Binder	5	7	35
+22-11-2020	Surender Singh Chauhan	East	Canceled	Binder	5	86	430
+23-11-2020	Jahoor Ahmed Meer	East	Shipped	Pen Set	5	50	250
+24-11-2020	Ravi	East	Backorder	Pen Set	5	75	375
+25-11-2020	John	East	Pending	Pencil	3	66	198
+26-11-2020	B Vikjay Kumar	East	Pending	Pencil	3	53	159
+27-11-2020	Veer Bhan Singh	East	Shipped	Binder	5	80	400
+28-11-2020	Guman Singh Basyal	East	Shipped	Pen	2	96	192
+29-11-2020	Shiv Prasad Singh	East	Backorder	Pen Set	5	62	310
+30-11-2020	Mohd Miraj Ansari	East	Pending	Pen Set	5	68	340
+12-01-2020	Harbir  Singh	East	Backorder	Desk	275	2	550
+12-02-2020	Charan Jeet Singh	East	Pending	Pen Set	5	55	275
+12-03-2020	Om Parkash Ahuja	East	Shipped	Pencil	3	16	48
+12-04-2020	Kumar Sanu	East	Pending	Pencil	3	68	204
+12-05-2020	Munna Lal Jain	East	Backorder	Desk	275	5	1375
+11-01-2020	Jai Prakash Kashyap	East	Shipped	Desk	275	2	550
+11-02-2020	Jai Prakash Kashyap	East	Shipped	Pen Set	5	42	210
+11-03-2020	Sarvesh Kumar Pandey	East	Shipped	Pencil	3	7	21
+11-04-2020	Sohnal Kumar Singh	East	Backorder	Binder	5	70	350
+11-05-2020	Manish Kumar Saket	East	Pending	Desk	275	4	1100
+11-06-2020	Amit Kumar Shukla	East	Backorder	Pencil	3	42	126
+11-07-2020	Puran Singh Rastogi	East	Shipped	Pen Set	5	29	145
+11-08-2020	Lal Babu Prasad	East	Shipped	Pen	2	76	152
+11-09-2020	Narayan Parsad Bhushal	East	Shipped	Pen	2	77	154
+11-10-2020	Mahesh Chand Tiwari	East	Shipped	Pencil	3	36	108
+11-11-2020	Tara Singh Rawat	East	Shipped	Pencil	3	95	285
+11-12-2020	Tara Singh Rawat	West	Shipped	Binder	5	50	250
+13-11-2020	Prem Singh Bidla	East	Shipped	Binder	5	60	300
+14-11-2020	Subham Kumar Yadav	East	Shipped	Binder	5	27	135
+15-11-2020	Ritu Raj Kumar	East	Shipped	Pencil	3	56	168
+16-11-2020	Nootan Prakash Yadav	East	Shipped	Pencil	3	90	270
+17-11-2020	Sone Lal Shah	East	Shipped	Pencil	3	75	225
+18-11-2020	Mukesh Kumar Yogi	East	Canceled	Pencil	3	32	96
+19-11-2020	Ravi Chandra Natarajan	East	Shipped	Pen	2	74	148
+20-11-2020	Maj- Koko Khaing	East	Canceled	Binder	5	60	300
+21-11-2020	Dinesh Singh Rana	East	Shipped	Desk	275	2	550
+22-11-2020	Prateek Kumar Tiwari	East	Pending	Pencil	3	90	270
+23-11-2020	Azhar  Ali	East	Pending	Binder	5	29	145
+24-11-2020	Ram Chander Jha	East	Pending	Desk	275	1	275
+25-11-2020	Rajat	East	Canceled	Pencil	3	20	60
+26-11-2020	Pushpendra Singh Rathore	East	Backorder	Pencil	3	35	105
+27-11-2020	Vinay Kumar Upadhayay	East	Backorder	Binder	5	81	405
+28-11-2020	Ravi Parkash Solanki	East	Shipped	Desk	275	2	550
+29-11-2020	Rohit Kumar Tiwari	East	Backorder	Desk	275	3	825
+30-11-2020	Badri Prsad Mishra	East	Canceled	Pen	2	56	112
+12-01-2020	Amit Kumar Verma	East	Shipped	Binder	5	28	140
+12-02-2020	Ramesh Singh Negi	East	Backorder	Pencil	3	12	36
+12-03-2020	Sh Pratap Singh	East	Shipped	Pen Set	5	16	80
+12-04-2020	Leela Dhar Narang	East	Shipped	Pen Set	5	48	240
+12-05-2020	Komal / Kabila	East	Pending	Pen	2	64	128
+02-06-2016	Deepak Kumar Mishra	East	Pending	Pen	2	15	30
+09-07-2020	Sardar Sarbjeet Singh	East	Pending	Binder	5	71	355
+09-08-2020	Amar Singh Mahar	East	Shipped	Pen Set	5	96	480
+09-09-2020	Sachin Kumal Taneja	East	Shipped	Desk	275	2	550
+09-10-2020	Vijay Pal Singh	East	Canceled	Pencil	3	67	201
+09-11-2020	Pandit Ram Niwas	East	Shipped	Pen Set	5	74	370
+09-12-2020	Banwari Lal Bairwa	East	Shipped	Desk	275	5	1375
+13-09-2020	Krishan Lal Gulyani	East	Backorder	Binder	5	46	230
+14-09-2020	Ram Naresh Yadav	East	Pending	Pen Set	5	99	495
+15-09-2020	Bhanu Pratap Singh	East	Shipped	Pen	2	41	82
+16-09-2020	Ram Narayan Meena	East	Canceled	Desk	275	1	275
+17-09-2020	Shri Kant Ghore	East	Shipped	Binder	5	87	435
+18-09-2020	Jay Dev Jha	East	Pending	Pen Set	5	62	310
+19-09-2020	Tara Dutt Suyal	East	Shipped	Binder	5	4	20
+20-09-2020	Bal Bahadur Kayanchhaki	East	Shipped	Binder	5	7	35
+21-09-2020	Radhey Shyam Verma	East	Canceled	Binder	5	86	430
+22-09-2020	Chandra Dhar Pande	East	Shipped	Pen Set	5	50	250
+23-09-2020	Balwant Ray Arora	East	Backorder	Pen Set	5	75	375
+24-09-2020	Balwant Ray Arora	East	Pending	Pencil	3	66	198
+25-09-2020	Ravinder Singh Rana	East	Pending	Pencil	3	53	159
+26-09-2020	Sunil Kumar Singh	East	Shipped	Binder	5	80	400
+27-09-2020	Ramesh Chander Gupta	East	Shipped	Pen	2	96	192
+28-09-2020	Sandeep Kumar Sharma	East	Backorder	Pen Set	5	62	310
+29-09-2020	Shankar Lal Gopalani	East	Pending	Pen Set	5	68	340
+30-09-2020	Ram Parkash Teneja	East	Backorder	Desk	275	2	550
+10-01-2020	Murari Lal Maharaj	East	Pending	Pen Set	5	55	275
+10-02-2020	Harvinder Singh Sandhu	East	Shipped	Pencil	3	16	48
+10-03-2020	Raju Kumar Mandal	East	Pending	Pencil	3	68	204
+10-04-2020	Shyam Narain Pande	East	Backorder	Desk	275	5	1375
+10-05-2020	Mohhmad Shahil Ragraj	East	Shipped	Desk	275	2	550
+10-06-2020	Nand Lal Meena	East	Shipped	Pen Set	5	42	210
+10-07-2020	Surender Kumar Singh	East	Shipped	Pencil	3	7	21
+10-08-2020	Inder Singh Sawant	East	Backorder	Binder	5	70	350
+10-09-2020	Sone Lal Bhanderi	East	Pending	Desk	275	4	1100
+10-10-2020	Mul Chand Kumawat	East	Backorder	Pencil	3	42	126
+10-11-2020	Yogesh Kumar Dhunna	East	Shipped	Pen Set	5	29	145
+10-12-2020	Surya Narayan Mukhiya	East	Shipped	Pen	2	76	152
+13-10-2020	Mohd Sajad Ali	East	Shipped	Pen	2	77	154
+14-10-2020	Suraj Sahay Sharma	East	Shipped	Pencil	3	36	108
+15-10-2020	Manish Kumar Sharma	East	Shipped	Pencil	3	95	285
+16-10-2020	Vikram Singh Rajpoot	East	Shipped	Binder	5	50	250
+17-10-2020	Shib Lal Singh	East	Shipped	Binder	5	60	300
+18-10-2020	Mr. Narender Mali	East	Shipped	Binder	5	27	135
+19-10-2020	Hari Mohan Gurjar	East	Shipped	Pencil	3	56	168
+20-10-2020	Sh. Amar Singh	East	Shipped	Pencil	3	90	270
+21-10-2020	Dilip Kumar Tanwar	East	Shipped	Pencil	3	75	225
+22-10-2020	Ajit Kumar Parsad	East	Canceled	Pencil	3	32	96
+23-10-2020	Abhash Lochan Jha	East	Shipped	Pen	2	74	148
+24-10-2020	Dharmender Kumar Sharma	East	Canceled	Binder	5	60	300
+25-10-2020	Rakesh Kumar Garg	East	Shipped	Desk	275	2	550
+26-10-2020	Ajay Singh Rajawat	East	Pending	Pencil	3	90	270
+27-10-2020	Shri Subhash Chand	East	Pending	Binder	5	29	145
+28-10-2020	Lave Kumar Sharma	East	Pending	Desk	275	1	275
+29-10-2020	Amit Kumar Giri	East	Canceled	Pencil	3	20	60
+30-10-2020	Ajay Kumar Jain	East	Backorder	Pencil	3	35	105
+31-10-2020	Boby Kumar Yadav	East	Backorder	Binder	5	81	405
+11-01-2020	P S Eswaran	East	Shipped	Desk	275	2	550
+11-02-2020	Mr. Babu Lal	East	Backorder	Desk	275	3	825
+11-03-2020	Om Parkash Yadav	East	Canceled	Pen	2	56	112
+11-04-2020	Kali Charan Sain	East	Shipped	Binder	5	28	140
+11-05-2020	Mohan Singh Tyagi	East	Backorder	Pencil	3	12	36
+11-06-2020	Suresh ,Umar Jain	East	Shipped	Pen Set	5	16	80
+11-07-2020	Suresh Kumar Jain	East	Shipped	Pen Set	5	48	240
+11-08-2020	Jai Kumar Gupta	East	Pending	Pen	2	64	128
+11-09-2020	Babar Ali Khan	East	Pending	Pen	2	15	30
+11-10-2020	Badri Narayan Yadav	East	Pending	Binder	5	71	355
+11-11-2020	Chandan Kumar Yadav	East	Shipped	Pen Set	5	96	480
+11-12-2020	Rajkumar	East	Shipped	Desk	275	2	550
+13-11-2020	Sardar Kawaljeet Singh	East	Canceled	Pencil	3	67	201
+14-11-2020	Mohit Parsad Uniyal	East	Shipped	Pen Set	5	74	370
+15-11-2020	Harish Chand Dua	East	Shipped	Desk	275	5	1375
+16-11-2020	Shyad Furkahn Hussain	East	Backorder	Binder	5	46	230
+17-11-2020	Khushal  Singh	East	Pending	Pen Set	5	99	495
+18-11-2020	Bajrangi Lal Kasyap	East	Shipped	Pen	2	41	82
+19-11-2020	Jai Ram Tiwari	East	Canceled	Desk	275	1	275
+20-11-2020	Nar Singh Thakur	East	Shipped	Binder	5	87	435
+21-11-2020	Yogender Kumar Gupta	East	Pending	Pen Set	5	62	310
+22-11-2020	Moh  Farman	East	Shipped	Binder	5	4	20
+23-11-2020	Hare Krishana Mishra	East	Shipped	Binder	5	7	35
+24-11-2020	Ashok Kumar Sani	East	Canceled	Binder	5	86	430
+25-11-2020	Subhash Raoji Deyo	East	Shipped	Pen Set	5	50	250
+26-11-2020	Yogender Kumar Gupta	East	Backorder	Pen Set	5	75	375
+27-11-2020	Amit Kumar Yadav	East	Pending	Pencil	3	66	198
+28-11-2020	Ravi Kumar Soni	East	Pending	Pencil	3	53	159
+29-11-2020	Man Mohan Aggarwal	East	Shipped	Binder	5	80	400
+30-11-2020	Jai Ram Kir	East	Shipped	Pen	2	96	192
+12-01-2020	Surender Singh Rathore	East	Backorder	Pen Set	5	62	310
+12-02-2020	Parmo Kumar Jain	East	Pending	Pen Set	5	68	340
+12-03-2020	Mohit Kumar Sharma	East	Backorder	Desk	275	2	550
+12-04-2020	Surjeet Singh Banjara	East	Pending	Pen Set	5	55	275
+12-05-2020	Rakesh Kumar Meena	East	Shipped	Pencil	3	16	48
+12-06-2020	Ramchandra Parsad Kurmi	East	Pending	Pencil	3	68	204
+12-07-2020	Dayal Singh B	East	Backorder	Desk	275	5	1375
+12-08-2020	Ranjan Singh Rai	East	Shipped	Desk	275	2	550
+12-09-2020	Rahul Singh Bisht	East	Shipped	Pen Set	5	42	210
+12-10-2020	Manku Ram Jat	East	Shipped	Pencil	3	7	21
+12-11-2020	Nathu Lal Sankhla	East	Backorder	Binder	5	70	350
+12-12-2020	Mohd. Hasan Ali	East	Pending	Desk	275	4	1100
+13-12-2020	Mohammad Ali Imam	East	Backorder	Pencil	3	42	126
+14-12-2020	Dd Suraj Kumar	East	Shipped	Pen Set	5	29	145
+15-12-2020	Rakesh Kumar Agrwal	East	Shipped	Pen	2	76	152
+16-12-2020	Inder Mahipal Arya	East	Shipped	Pen	2	77	154
+09-07-2020	Sitender Singh Bedi	East	Shipped	Pencil	3	36	108
+09-08-2020	Hitesh	East	Shipped	Pencil	3	95	285
+09-09-2020	Devid Rana Singh	East	Shipped	Binder	5	50	250
+09-10-2020	Parashu Ram Sharma	East	Shipped	Binder	5	60	300
+09-11-2020	Manoj Kumar Rajhans	East	Shipped	Binder	5	27	135
+09-12-2020	Nand Lal Bansal	East	Shipped	Pencil	3	56	168
+13-09-2020	Tapan Kumar Ghos	East	Shipped	Pencil	3	90	270
+14-09-2020	Kuwar Pal Singh	East	Shipped	Pencil	3	75	225
+15-09-2020	Satish Chander Jha	East	Canceled	Pencil	3	32	96
+16-09-2020	Shree Prakash Garg	East	Shipped	Pen	2	74	148
+17-09-2020	Avdesh Singh Tomar	East	Canceled	Binder	5	60	300
+18-09-2020	Md Aktab Alam	East	Shipped	Desk	275	2	550
+19-09-2020	Anil Kumar Tete	East	Pending	Pencil	3	90	270
+20-09-2020	Prem Parkash Seth	East	Pending	Binder	5	29	145
+21-09-2020	Parshu Ram Singh	East	Pending	Desk	275	1	275
+22-09-2020	Lal Prasad Narala	East	Canceled	Pencil	3	20	60
+23-09-2020	Santosh Kumar Singh	East	Backorder	Pencil	3	35	105
+24-09-2020	Ram Deeta Mehto	East	Backorder	Binder	5	81	405
+25-09-2020	Rajeet Kumar Singh	East	Shipped	Desk	275	2	550
+26-09-2020	Laxmi Narayan Verma	East	Backorder	Desk	275	3	825
+27-09-2020	Mr. Ashish Khandelwal	East	Canceled	Pen	2	56	112
+28-09-2020	Chander Bhan Yadav	East	Shipped	Binder	5	28	140
+29-09-2020	Fanni Bhusan Shina	East	Backorder	Pencil	3	12	36
+30-09-2020	B R John	East	Shipped	Pen Set	5	16	80
+10-01-2020	Dinesh Kumar Saini	East	Shipped	Pen Set	5	48	240
+10-02-2020	Jai Ram Mandal	East	Pending	Pen	2	64	128
+10-03-2020	Guru Charan Lal	East	Pending	Pen	2	15	30
+10-04-2020	Mukesh Kumar Shav	East	Pending	Binder	5	71	355
+10-05-2020	Sushil Kumar Arora	East	Shipped	Pen Set	5	96	480
+10-06-2020	Satyanarayan  Dholi	East	Shipped	Desk	275	2	550
+10-07-2020	Satya Narayan Bacchan	East	Canceled	Pencil	3	67	201
+10-08-2020	Mohit  Thakur	East	Shipped	Pen Set	5	74	370
+10-09-2020	Virendra  Singh	East	Shipped	Desk	275	5	1375
+10-10-2020	Ravi Teja Nikkam	East	Backorder	Binder	5	46	230
+10-11-2020	Banwari Lal Saini	East	Pending	Pen Set	5	99	495
+10-12-2020	Dev Kumar Singh	East	Shipped	Pen	2	41	82
+13-10-2020	Raj Kumar Mishra	East	Canceled	Desk	275	1	275
+14-10-2020	Pawan Alias Lakshman	East	Shipped	Binder	5	87	435
+15-10-2020	Puskar Singh Dhami	East	Pending	Pen Set	5	62	310
+16-10-2020	Sh. Madan Jain	East	Shipped	Binder	5	4	20
+17-10-2020	Maha Dev Sharma	East	Shipped	Binder	5	7	35
+18-10-2020	Shri  Chatru	East	Canceled	Binder	5	86	430
+19-10-2020	Mohmmad  Sarif	East	Shipped	Pen Set	5	50	250
+20-10-2020	Lokendra Pal Singh	East	Backorder	Pen Set	5	75	375
+21-10-2020	Harish Chand Joshi	East	Pending	Pencil	3	66	198
+22-10-2020	Pramod Kumar Tiwari	East	Pending	Pencil	3	53	159
+23-10-2020	Gagan Bihari Sharma	East	Shipped	Binder	5	80	400
+24-10-2020	Sita Ram Saini	East	Shipped	Pen	2	96	192
+25-10-2020	Rajender Kumar Sehgal	East	Backorder	Pen Set	5	62	310
+26-10-2020	Ram Chandra Mishra	East	Pending	Pen Set	5	68	340
+27-10-2020	Shyam Gopal Swarnkar	East	Backorder	Desk	275	2	550
+28-10-2020	Raju Kumar Mandal	East	Pending	Pen Set	5	55	275
+29-10-2020	Anil  Kumar	East	Shipped	Pencil	3	16	48
+30-10-2020	Girish Singh Patwal	East	Pending	Pencil	3	68	204
+31-10-2020	Mr. Fateh Singh	East	Backorder	Desk	275	5	1375
+11-01-2020	Ashok Kumar Sharma	East	Shipped	Desk	275	2	550
+11-02-2020	Sunder Lal Tiwari	East	Shipped	Pen Set	5	42	210
+11-03-2020	Rakesh Kumar Yadav	East	Shipped	Pencil	3	7	21
+09-07-2020	Raj Kumar Yadav	East	Backorder	Binder	5	70	350
+09-08-2020	Naresh Kumar Sharma	East	Pending	Desk	275	4	1100
+09-09-2020	Jai Kishan Gupta	East	Backorder	Pencil	3	42	126
+09-10-2020	Yashwant Kumar Karwar	East	Shipped	Pen Set	5	29	145
+09-11-2020	Ashok Kumar Sharma	East	Shipped	Pen	2	76	152
+09-12-2020	Anand Kumar Mishra	East	Shipped	Pen	2	77	154
+13-09-2020	Mr. Lokesh Sharma	East	Shipped	Pencil	3	36	108
+14-09-2020	Mahaveer Singh Yadav	East	Shipped	Pencil	3	95	285
+15-09-2020	Awdhesh Kumar Singh	East	Shipped	Binder	5	50	250
+16-09-2020	Iqbal Masin Hans	East	Shipped	Binder	5	60	300
+17-09-2020	Prem Nath Pandey	East	Shipped	Binder	5	27	135
+18-09-2020	Dev Nanden Choudhary	East	Shipped	Pencil	3	56	168
+19-09-2020	Vikesh Kumar Bhatt	East	Shipped	Pencil	3	90	270
+20-09-2020	Abhishek Kumar Singh	East	Shipped	Pencil	3	75	225
+21-09-2020	Ravi Raj Singh	East	Canceled	Pencil	3	32	96
+22-09-2020	Netra Pal Singh	East	Shipped	Pen	2	74	148
+23-09-2020	Ram Nath Yadav	East	Canceled	Binder	5	60	300
+24-09-2020	Jawahar Lal Mittal	East	Shipped	Desk	275	2	550
+25-09-2020	Puran Chand Joshi	East	Pending	Pencil	3	90	270
+26-09-2020	Ct Devesh Kumar	East	Pending	Binder	5	29	145
+27-09-2020	Kishan Chand Joshi	East	Pending	Desk	275	1	275
+28-09-2020	Raghubir Singh Fauji	East	Canceled	Pencil	3	20	60
+29-09-2020	Madan Mohan Lal	East	Backorder	Pencil	3	35	105
+30-09-2020	Mohan Lal Sharma	East	Backorder	Binder	5	81	405
+10-01-2020	Amar Thuruwasn	East	Shipped	Desk	275	2	550
+10-02-2020	Sandeep  Kummer	East	Backorder	Desk	275	3	825
+10-03-2020	Satish Kumar Jangid	East	Canceled	Pen	2	56	112
+10-04-2020	Rupak Kanti Dass	East	Shipped	Binder	5	28	140
+10-05-2020	Sh Tejpal Singh	East	Backorder	Pencil	3	12	36
+10-06-2020	Venkatswaran Rama Swamy	East	Shipped	Pen Set	5	16	80
+10-07-2020	Kashi Nath Singh	East	Shipped	Pen Set	5	48	240
+10-08-2020	Surender Nath Saini	East	Pending	Pen	2	64	128
+10-09-2020	Anjeev Kumar Jain	East	Pending	Pen	2	15	30
+10-10-2020	Rajendra  Pandey	East	Pending	Binder	5	71	355
+10-11-2020	Prem Singh Negi	East	Shipped	Pen Set	5	96	480
+10-12-2020	Naroo Orf Narayan	East	Shipped	Desk	275	2	550
+13-10-2020	Sandeep  Tomar	East	Canceled	Pencil	3	67	201
+14-10-2020	Aanad Prkash Goyal	East	Shipped	Pen Set	5	74	370
+15-10-2020	Shri Gyan Chnad	East	Shipped	Desk	275	5	1375
+16-10-2020	Ramesh Chand Tirvedi	East	Backorder	Binder	5	46	230
+17-10-2020	Sh. Bharu Singh	East	Pending	Pen Set	5	99	495
+18-10-2020	Ravindra Singh Kandari	East	Shipped	Pen	2	41	82
+19-10-2020	Anoop Singh Patwal	East	Canceled	Desk	275	1	275
+20-10-2020	Harsh Singh Bisht	East	Shipped	Binder	5	87	435
+21-10-2020	Rakesh  Gupta	East	Pending	Pen Set	5	62	310
+22-10-2020	Pavan Kumar Sharma	East	Shipped	Binder	5	4	20
+23-10-2020	Kumari Archana Chauhan	East	Shipped	Binder	5	7	35
+24-10-2020	Sachin Kumar Sharma	East	Canceled	Binder	5	86	430
+25-10-2020	Mangol Jao Singh	East	Shipped	Pen Set	5	50	250
+09-07-2020	Tej Pal Singh	East	Backorder	Pen Set	5	75	375
+09-08-2020	Amit Kumar Nagliya	East	Pending	Pencil	3	66	198
+09-09-2020	Madan Mohan Meena	East	Pending	Pencil	3	53	159
+09-10-2020	Raj Kumar Choudhry	East	Shipped	Binder	5	80	400
+09-11-2020	Santosh Kumar Dube	East	Shipped	Pen	2	96	192
+09-12-2020	Sanjay Kumar Tripathi	East	Backorder	Pen Set	5	62	310
+13-09-2020	Sh Amrik Singh	East	Pending	Pen Set	5	68	340
+14-09-2020	Shri Ratan Lal	East	Backorder	Desk	275	2	550
+15-09-2020	Shri  Aladeen	East	Pending	Pen Set	5	55	275
+16-09-2020	Dama  Rajanna	East	Shipped	Pencil	3	16	48
+17-09-2020	Anil Singh Kushwah	East	Pending	Pencil	3	68	204
+18-09-2020	Yogesh Chandra Joshi	East	Backorder	Desk	275	5	1375
+19-09-2020	Mohd Chand Babu	East	Shipped	Desk	275	2	550
+20-09-2020	Ram Dev Yadav	East	Shipped	Pen Set	5	42	210
+21-09-2020	Sh. Ram Lal	East	Shipped	Pencil	3	7	21
+22-09-2020	Meeta Lal Gurjar	East	Backorder	Binder	5	70	350
+23-09-2020	Vipin Kumar Panday	East	Pending	Desk	275	4	1100
+24-09-2020	Jai Prakash Singh	East	Backorder	Pencil	3	42	126
+25-09-2020	Mukesh Kumar Echra	East	Shipped	Pen Set	5	29	145
+26-09-2020	Vikram Singh Rawat	East	Shipped	Pen	2	76	152
+27-09-2020	Dinesh  Mishra	East	Shipped	Pen	2	77	154
+28-09-2020	Satish Kumar Sharma	East	Shipped	Pencil	3	36	108
+29-09-2020	Kishan Singh Adhkari	East	Shipped	Pencil	3	95	285
+30-09-2020	Aaftab	East	Shipped	Binder	5	50	250
+09-07-2020	Dharm Singh Thakur	East	Shipped	Binder	5	60	300
+09-08-2020	Amit Kumar Nagpal	East	Shipped	Binder	5	27	135
+09-09-2020	Dharmender Kumar Tiwari	East	Shipped	Pencil	3	56	168
+09-10-2020	Dinesh Kumar Dogra	East	Shipped	Pencil	3	90	270
+09-11-2020	Mohd Sabir Anjar	East	Shipped	Pencil	3	75	225
+09-12-2020	Sh. Veer Singh	East	Canceled	Pencil	3	32	96
+13-09-2020	Satish Kumar Aggarwal	East	Shipped	Pen	2	74	148
+14-09-2020	Pankaj Singh Negi	East	Canceled	Binder	5	60	300
+15-09-2020	Mohammad Gazi Khan	East	Shipped	Desk	275	2	550
+16-09-2020	Kailash Singh Adhikari	East	Pending	Pencil	3	90	270
+17-09-2020	Sunder Lal Mongia	East	Pending	Binder	5	29	145
+18-09-2020	Ganga Bishan Bairwa	East	Pending	Desk	275	1	275
+19-09-2020	Abul Kesh Ansari	East	Canceled	Pencil	3	20	60
+20-09-2020	Mr. Devindra Singh	East	Backorder	Pencil	3	35	105
+21-09-2020	Ajay Kumarn Mishra	East	Backorder	Binder	5	81	405
+22-09-2020	Mohd. Hammad Ashraf	East	Shipped	Desk	275	2	550
+23-09-2020	Baleshwar  Tiwari	East	Backorder	Desk	275	3	825
+24-09-2020	Vinay Kuma R	East	Canceled	Pen	2	56	112
+25-09-2020	Vijender Singh Rawat	East	Shipped	Binder	5	28	140
+09-07-2020	Bhagwat Laxman Rany	East	Backorder	Pencil	3	12	36
+09-08-2020	Anil Singh Maharwar	East	Shipped	Pen Set	5	16	80
+09-09-2020	Mr. Himmat Singh	East	Shipped	Pen Set	5	48	240
+09-10-2020	Asif Dilkar Alam	East	Pending	Pen	2	64	128
+09-11-2020	Natha Bhai Bachhani	East	Pending	Pen	2	15	30
+09-12-2020	Dharmpal  Yadav	East	Pending	Binder	5	71	355
+13-09-2020	Kapil Kumar Kashyap	East	Shipped	Pen Set	5	96	480
+14-09-2020	Ram Naywaj Singh	East	Shipped	Desk	275	2	550
+15-09-2020	Vinay Kumar Bansal	East	Canceled	Pencil	3	67	201
+16-09-2020	Rajender Kand Pal	East	Shipped	Pen Set	5	74	370
+17-09-2020	Mr. Love Soni	East	Shipped	Desk	275	5	1375
+18-09-2020	Gur Charan Singh	East	Backorder	Binder	5	46	230
+19-09-2020	Sh. Ramhet Koli	East	Pending	Pen Set	5	99	495
+20-09-2020	Navneet Singh Negi	East	Shipped	Pen	2	41	82
+21-09-2020	Bhupendra Singh Rawat	East	Canceled	Desk	275	1	275
+22-09-2020	Birgesh Kumar Gupta	East	Shipped	Binder	5	87	435
+23-09-2020	Hemant Narayran Yadav	East	Pending	Pen Set	5	62	310
+24-09-2020	Ved Parkash Shani	East	Shipped	Binder	5	4	20
+25-09-2020	Durg Parsad Dikshit	East	Shipped	Binder	5	7	35
+26-09-2020	Syed Ali Hashmi	East	Canceled	Binder	5	86	430
+27-09-2020	Rakesh Kumar Arora	East	Shipped	Pen Set	5	50	250
+28-09-2020	Bhanu Pratap Singh	East	Backorder	Pen Set	5	75	375
+29-09-2020	Mohan Lal Sharma	East	Pending	Pencil	3	66	198
+30-09-2020	Pawan Kumar Chourasiya	East	Pending	Pencil	3	53	159
+10-01-2020	Navin Kumar Gutam	East	Shipped	Binder	5	80	400
+10-02-2020	Vinod Chandra Upreti	East	Shipped	Pen	2	96	192
+10-03-2020	Surender Nath Saini	East	Backorder	Pen Set	5	62	310
+10-04-2020	Shyam Lal Chawla	East	Pending	Pen Set	5	68	340
+10-05-2020	Sujeet Kumar Jha	East	Backorder	Desk	275	2	550
+10-06-2020	Rajiv Madhur Gupta	East	Pending	Pen Set	5	55	275
+10-07-2020	Prem Chandra Joshi	East	Shipped	Pencil	3	16	48
+10-08-2020	Santosh  Kumar	East	Pending	Pencil	3	68	204
+10-09-2020	Ajay Kumar Gupta	East	Backorder	Desk	275	5	1375
+10-10-2020	Soban Singh Rawat,	East	Shipped	Desk	275	2	550
+10-11-2020	Surender Pal Arora	East	Shipped	Pen Set	5	42	210
+10-12-2020	Phakir  Chand	East	Shipped	Pencil	3	7	21
+13-10-2020	Shailesh Kumar Rai	East	Backorder	Binder	5	70	350
+14-10-2020	Patan Dev Mehto	East	Pending	Desk	275	4	1100
+15-10-2020	Mool Chand Goyal	East	Backorder	Pencil	3	42	126
+16-10-2020	Sujit Kumar Jha	East	Shipped	Pen Set	5	29	145
+17-10-2020	Ram Varaksh Chaoudhary	East	Shipped	Pen	2	76	152
+18-10-2020	Parmod Kumar Pal	East	Shipped	Pen	2	77	154
+19-10-2020	Satya Sunder Pauigrali	East	Shipped	Pencil	3	36	108
+20-10-2020	Kalap Nath Yadav	East	Shipped	Pencil	3	95	285
+21-10-2020	Jitender Kumar Jha	East	Shipped	Binder	5	50	250
+22-10-2020	Ram Uadagar Jha	East	Shipped	Binder	5	60	300
+23-10-2020	Sh Vinod Kumar	East	Shipped	Binder	5	27	135
+24-10-2020	Nand Kishor, Puppu	East	Shipped	Pencil	3	56	168
+25-10-2020	Vishnu Bahadur Thapa	East	Shipped	Pencil	3	90	270
+26-10-2020	Kailash Chand Verma	East	Shipped	Pencil	3	75	225
+27-10-2020	Kamal Shayam Sukha	East	Canceled	Pencil	3	32	96
+28-10-2020	Munne Alias Driver	East	Shipped	Pen	2	74	148
+29-10-2020	Pardep Kumar Meena	East	Canceled	Binder	5	60	300
+30-10-2020	Puswa Swami Ratan	East	Shipped	Desk	275	2	550
+31-10-2020	Roshan  Kumar	East	Pending	Pencil	3	90	270
+11-01-2020	Krishan Chand Arora	East	Pending	Binder	5	29	145
+11-02-2020	Naveen Chandra Pandey	East	Pending	Desk	275	1	275
+11-03-2020	Vikram  Routela	East	Canceled	Pencil	3	20	60
+11-04-2020	Sampat Sadashiv Saluke	East	Backorder	Pencil	3	35	105
+11-05-2020	Shri Sunil Gupta	East	Backorder	Binder	5	81	405
+11-06-2020	Vijay Shri Vastav	East	Shipped	Desk	275	2	550
+11-07-2020	Udai Narayan Panda	East	Backorder	Desk	275	3	825
+11-08-2020	Jai Prakash Yadav	East	Canceled	Pen	2	56	112
+11-09-2020	Chandra Kanta Jat	East	Shipped	Binder	5	28	140
+11-10-2020	Abdul Kadirjilani Khan	East	Backorder	Pencil	3	12	36
+11-11-2020	Dil Kush Meena	East	Shipped	Pen Set	5	16	80
+11-12-2020	Dharam Dev Podar	East	Shipped	Pen Set	5	48	240
+13-11-2020	Puran Singh Rawat	East	Pending	Pen	2	64	128
+14-11-2020	Harish Chander Saroj	East	Pending	Pen	2	15	30
+15-11-2020	Sheikh Azhar Ali	East	Pending	Binder	5	71	355
+16-11-2020	Mr. Mohamad Anwar	East	Shipped	Pen Set	5	96	480
+17-11-2020	Ram Nath Choudhary	East	Shipped	Desk	275	2	550
+18-11-2020	Amrit Pal Singh	East	Canceled	Pencil	3	67	201
+19-11-2020	Kirashan Avatar Gupta	East	Shipped	Pen Set	5	74	370
+20-11-2020	Sh. Janardhan Prasad	East	Shipped	Desk	275	5	1375
+21-11-2020	Mahender Singh Negi	East	Backorder	Binder	5	46	230
+22-11-2020	Shiv Kumar Sharma	East	Pending	Pen Set	5	99	495
+23-11-2020	Satendra  Singh	East	Shipped	Pen	2	41	82
+24-11-2020	Chaman Lal Verma	East	Canceled	Desk	275	1	275
+25-11-2020	Arun Prakash Tiwari	East	Shipped	Binder	5	87	435
+26-11-2020	Roop Basant Meena	East	Pending	Pen Set	5	62	310
+27-11-2020	Subhash Chander Sukhija	East	Shipped	Binder	5	4	20
+28-11-2020	Laxman Lal Tundwal	East	Shipped	Binder	5	7	35
+29-11-2020	Lal Man Gupta	East	Canceled	Binder	5	86	430
+30-11-2020	Shiv Lal Nehara	East	Shipped	Pen Set	5	50	250
+12-01-2020	Manoj Kumar Josi	East	Backorder	Pen Set	5	75	375
+12-02-2020	Kirshn Goapal Jadhon	East	Pending	Pencil	3	66	198
+12-03-2020	Kirshn Goapal Jadhon	East	Pending	Pencil	3	53	159
+12-04-2020	Raj  Kohli	East	Shipped	Binder	5	80	400
+12-05-2020	Sh.Vipin Kumar Yadav	East	Shipped	Pen	2	96	192
+12-06-2020	Bhavisaya Rai Choudhry	East	Backorder	Pen Set	5	62	310
+12-07-2020	P Dinesh Raju	East	Pending	Pen Set	5	68	340
+12-08-2020	Pooran Singh Saini	East	Backorder	Desk	275	2	550
+12-09-2020	Janak Singh Dadwal	East	Pending	Pen Set	5	55	275
+12-10-2020	Ram Anuj Kumar	East	Shipped	Pencil	3	16	48
+12-11-2020	Manmeet Singh Saini	East	Pending	Pencil	3	68	204
+12-12-2020	Inder Dev Singh	East	Backorder	Desk	275	5	1375
+13-12-2020	Ravi Kumar Gangwal	East	Shipped	Desk	275	2	550
+14-12-2020	Shyam Lal Meghawal	East	Shipped	Pen Set	5	42	210
+15-12-2020	Birender Kishor Bhala	East	Shipped	Pencil	3	7	21
+16-12-2020	Shree Bhagwat Nishad	East	Backorder	Binder	5	70	350
+25-03-2019	Reyaz Ahmed Malik	East	Pending	Desk	275	4	1100
+26-03-2019	Raj Kumar Meena	East	Backorder	Pencil	3	42	126
+27-03-2019	Karan Jeet Singh	East	Shipped	Pen Set	5	29	145
+28-03-2019	Ram Kishan Tomar	East	Shipped	Pen	2	76	152
+29-03-2019	Shayam Kishor Singh	East	Shipped	Pen	2	77	154
+30-03-2019	Dr Gopal Bhagat	East	Shipped	Pencil	3	36	108
+31-03-2019	Dharmender Singh Solanki	East	Shipped	Pencil	3	95	285
+04-01-2019	Anand Singh Mehra	East	Shipped	Binder	5	50	250
+04-02-2019	Suraj Nath Yadav	East	Shipped	Binder	5	60	300
+04-03-2019	Dishant Kumar Nigam	East	Shipped	Binder	5	27	135
+04-04-2019	Ravi Kumar Ojha	East	Shipped	Pencil	3	56	168
+04-05-2019	Shiv Kumar Verma	East	Shipped	Pencil	3	90	270
+04-06-2019	Mohd. Miraj Ansari	East	Shipped	Pencil	3	75	225
+04-07-2019	Jai Prakash Sharma	East	Canceled	Pencil	3	32	96
+04-08-2019	Pintu  Chaudhary	East	Shipped	Pen	2	74	148
+04-09-2019	Kamal Jyoti Sharma	East	Canceled	Binder	5	60	300
+04-10-2019	Abdul Sattar Resi	East	Shipped	Desk	275	2	550
+04-11-2019	Sh Reddy Ashraiya	East	Pending	Pencil	3	90	270
+04-12-2019	Biram Lal Chamar	East	Pending	Binder	5	29	145
+13-04-2019	Sardar Amarjeet Sahni	East	Pending	Desk	275	1	275
+14-04-2019	Rohit  Kumar	East	Canceled	Pencil	3	20	60
+15-04-2019	Satendra Pal Singh	East	Backorder	Pencil	3	35	105
+16-04-2019	Lalit Singh Bisht	East	Backorder	Binder	5	81	405
+17-04-2019	Babu Lal Sharma	East	Shipped	Desk	275	2	550
+18-04-2019	Md. Hasrat Khan	East	Backorder	Desk	275	3	825
+19-04-2019	Surender Nath Saini	East	Canceled	Pen	2	56	112
+20-04-2019	Mr. Kishan Lal	East	Shipped	Binder	5	28	140
+21-04-2019	Divyansh With Father	East	Backorder	Pencil	3	12	36
+22-04-2019	Kunal Kumar Singh	East	Shipped	Pen Set	5	16	80
+23-04-2019	Sunder Singh Kaintura	East	Shipped	Pen Set	5	48	240
+24-04-2019	Manoj Kumar Shrivastav	East	Pending	Pen	2	64	128
+25-04-2019	Shashai Ranjan Shah	East	Pending	Pen	2	15	30
+26-04-2019	Amit Kumar Jaina	East	Pending	Binder	5	71	355
+27-04-2019	Pawan Kumar Sharam	East	Shipped	Pen Set	5	96	480
+28-04-2019	Luv Kumar Sharma	East	Shipped	Desk	275	2	550
+29-04-2019	Iswar Lal Raigar	East	Canceled	Pencil	3	67	201
+30-04-2019	Mohd  Ashlam	East	Shipped	Pen Set	5	74	370
+05-01-2019	Mohd. Akhtar Hussain	East	Shipped	Desk	275	5	1375
+05-02-2019	Sohan Singh Rawat	East	Backorder	Binder	5	46	230
+05-03-2019	Ramesh  Bansal	East	Pending	Pen Set	5	99	495
+05-04-2019	Prabhu Dayal Sharma	East	Shipped	Pen	2	41	82
+05-05-2019	Shreee Mahaverr Prasad	East	Canceled	Desk	275	1	275
+05-06-2019	Shri Gangabal Singh	East	Shipped	Binder	5	87	435
+05-07-2019	Om Prakash Maheshwari	East	Pending	Pen Set	5	62	310
+05-08-2019	Om Prakash Maheshwari	East	Shipped	Binder	5	4	20
+05-09-2019	Jagdish Kumar Sagar	East	Shipped	Binder	5	7	35
+05-10-2019	Mukesh Chand Chaturvedi	East	Canceled	Binder	5	86	430
+05-11-2019	Raj Dev Singh	East	Shipped	Pen Set	5	50	250
+05-12-2019	Abhishik Partap Singh	East	Backorder	Pen Set	5	75	375
+13-05-2019	Balveer Sing Chawla	East	Pending	Pencil	3	66	198
+14-05-2019	Kamal Kishor Saini	East	Pending	Pencil	3	53	159
+15-05-2019	Shankar Lal Verma	East	Shipped	Binder	5	80	400
+16-05-2019	Rahul Kumar Tiwari	East	Shipped	Pen	2	96	192
+17-05-2019	Praveen Kumar Girdhar	East	Backorder	Pen Set	5	62	310
+18-05-2019	Parmod  Kumar	East	Pending	Pen Set	5	68	340
+19-05-2019	Upender Narayan Jha	East	Backorder	Desk	275	2	550
+20-05-2019	Ranjeet  Kumar	East	Pending	Pen Set	5	55	275
+21-05-2019	Ravi Kumar Batra	East	Shipped	Pencil	3	16	48
+22-05-2019	Syed Arafat Husain	East	Pending	Pencil	3	68	204
+23-05-2019	Ramesh Singh Visth	East	Backorder	Desk	275	5	1375
+24-05-2019	Harsh Vardhan Sharma	East	Shipped	Desk	275	2	550
+25-05-2019	Laxmi Narayan Malpani	East	Shipped	Pen Set	5	42	210
+26-05-2019	Om Beer Singh	East	Shipped	Pencil	3	7	21
+27-05-2019	Babu Lal Yadav	East	Backorder	Binder	5	70	350
+28-05-2019	Ishwar Singh Aggarwal	East	Pending	Desk	275	4	1100
+29-05-2019	Babu Lal Yadav	East	Backorder	Pencil	3	42	126
+30-05-2019	Rakesh Alias Kalua	East	Shipped	Pen Set	5	29	145
+31-05-2019	Arun Kumar Tiwari	East	Shipped	Pen	2	76	152
+06-01-2019	Amar Deep Gupta	East	Shipped	Pen	2	77	154
+06-02-2019	Shyam Lal Gupta	East	Shipped	Pencil	3	36	108
+06-03-2019	Naveen Kumar Pandit	East	Shipped	Pencil	3	95	285
+06-04-2019	Gopal Lal Meena	East	Shipped	Binder	5	50	250
+06-05-2019	Kumar Yadav	East	Shipped	Binder	5	60	300
+06-06-2019	Pardeep Kumar Mathur	East	Shipped	Binder	5	27	135
+06-07-2019	Ratan  Lal	East	Shipped	Pencil	3	56	168
+06-08-2019	Krishan Lal Arora	East	Shipped	Pencil	3	90	270
+06-09-2019	Prem Ranjan Benerjee	East	Shipped	Pencil	3	75	225
+06-10-2019	Mohd. Farvej Sha	East	Canceled	Pencil	3	32	96
+06-11-2019	Sardar Santbir Singh	East	Shipped	Pen	2	74	148
+06-12-2019	Abdul Ananula Khan	East	Canceled	Binder	5	60	300
+13-06-2019	Praveen Kumar Pal	East	Shipped	Desk	275	2	550
+14-06-2019	Kifayat Tula Khan	East	Pending	Pencil	3	90	270
+15-06-2019	Shri Gulshan Kumar	East	Pending	Binder	5	29	145
+16-06-2019	Ram Ji Gupta	East	Pending	Desk	275	1	275
+17-06-2019	Uma Shankar Soni	East	Canceled	Pencil	3	20	60
+18-06-2019	Fakir Singh Rawat	East	Backorder	Pencil	3	35	105
+19-06-2019	Terence Nameirak Pam	East	Backorder	Binder	5	81	405
+20-06-2019	Amit Kumar Singh	East	Shipped	Desk	275	2	550
+21-06-2019	Sandeep Alongwith Auto	East	Backorder	Desk	275	3	825
+22-06-2019	Ratan Lal Sharma	East	Canceled	Pen	2	56	112
+23-06-2019	Shri Rameshwar Lal	East	Shipped	Binder	5	28	140
+24-06-2019	Kamal Kishor Bairva	East	Backorder	Pencil	3	12	36
+25-06-2019	Anup Singh Negi	East	Shipped	Pen Set	5	16	80
+26-06-2019	Mukesh Kumar Negi	East	Shipped	Pen Set	5	48	240
+27-06-2019	Arjun Kumar Jaiswal	East	Pending	Pen	2	64	128
+28-06-2019	Satish Chand Jain	East	Pending	Pen	2	15	30
+29-06-2019	Rajender Singh Rawat	East	Pending	Binder	5	71	355
+30-06-2019	Vinod Kumar Meena	East	Shipped	Pen Set	5	96	480
+07-01-2019	Shri Dhan Singh	East	Shipped	Desk	275	2	550
+07-02-2019	Bhajan Singh Rodhan	East	Canceled	Pencil	3	67	201
+07-03-2019	Manoj  Vajpay	East	Shipped	Pen Set	5	74	370
+07-04-2019	Raju  Sonker	East	Shipped	Desk	275	5	1375
+07-05-2019	Kunod Kumar Ray	East	Backorder	Binder	5	46	230
+07-06-2019	Dinesh Kumar Sharma	East	Pending	Pen Set	5	99	495
+07-07-2019	Sunil Kumar Verma	East	Shipped	Pen	2	41	82
+07-08-2019	Tapish  Chorasiya	East	Canceled	Desk	275	1	275
+07-09-2019	Om Prakash Tyagi	East	Shipped	Binder	5	87	435
+07-10-2019	Mr. Mahendra Singh	East	Pending	Pen Set	5	62	310
+07-11-2019	Bhawan Singh Gusain	East	Shipped	Binder	5	4	20
+07-12-2019	Madan Kumar Chaudhari	East	Shipped	Binder	5	7	35
+13-07-2019	Ram Das Gupta	East	Canceled	Binder	5	86	430
+14-07-2019	Arvind Kumar Boyat	East	Shipped	Pen Set	5	50	250
+15-07-2019	Chandra Mohan Saden	East	Backorder	Pen Set	5	75	375
+16-07-2019	Kamal Kishor Soni	East	Pending	Pencil	3	66	198
+17-07-2019	Shamsher  Singh	East	Pending	Pencil	3	53	159
+18-07-2019	Vijay Kumar Ghai	East	Shipped	Binder	5	80	400
+19-07-2019	Mohd. Javed Khan	East	Shipped	Pen	2	96	192
+20-07-2019	Abhishek  Sharma	East	Backorder	Pen Set	5	62	310
+21-07-2019	Vinod Kumar Jain	East	Pending	Pen Set	5	68	340
+22-07-2019	Rajesh Kumar Pal	East	Backorder	Desk	275	2	550
+23-07-2019	Ct. Shyam Lal	East	Pending	Pen Set	5	55	275
+24-07-2019	Vikas Kumar Jha	East	Shipped	Pencil	3	16	48
+25-07-2019	Santosh Kumar Panday	East	Pending	Pencil	3	68	204
+26-07-2019	Ram Lal Dangi	East	Backorder	Desk	275	5	1375
+27-07-2019	Devender Singh Rawat	East	Shipped	Desk	275	2	550
+28-07-2019	Prakash Chand Meena	East	Shipped	Pen Set	5	42	210
+29-07-2019	Man Mohan Mehta	East	Shipped	Pencil	3	7	21
+30-07-2019	Vijay Pal Singh	East	Backorder	Binder	5	70	350
+31-07-2019	Kiran Pal Singh	East	Pending	Desk	275	4	1100
+08-01-2019	Harpal Singh Negi	East	Backorder	Pencil	3	42	126
+08-02-2019	Kauslender  Singh	East	Shipped	Pen Set	5	29	145
+08-03-2019	Kaval Raj Kapoor	East	Shipped	Pen	2	76	152
+08-04-2019	Munna Lal Chohan	East	Shipped	Pen	2	77	154
+08-05-2019	Ishwari Prashad Dube	East	Shipped	Pencil	3	36	108
+08-06-2019	Satish Kumar Bhatnagar	East	Shipped	Pencil	3	95	285
+08-07-2019	Prem Singh Chauhan	East	Shipped	Binder	5	50	250
+08-08-2019	Karan Kumar Khatik	East	Shipped	Binder	5	60	300
+08-09-2019	Warnakulasuriya	East	Shipped	Binder	5	27	135
+08-10-2019	Warnakulasuriya	East	Shipped	Pencil	3	56	168
+08-11-2019	Warnakulasuriya	East	Shipped	Pencil	3	90	270
+08-12-2019	Siya Ram Gupta	East	Shipped	Pencil	3	75	225
+01-11-2018	Praveen Kumar Chauhan	East	Canceled	Pencil	3	32	96
+01-12-2018	Tunni Lal Jaiswal	East	Shipped	Pen	2	74	148
+13-01-2018	Jeet Singh Ramola	East	Canceled	Binder	5	60	300
+14-01-2018	Ashok Kumar Rawat	East	Shipped	Desk	275	2	550
+15-01-2018	Rakesh Chander Sharma	East	Pending	Pencil	3	90	270
+16-01-2018	Narsa Ram Mghwal	East	Pending	Binder	5	29	145
+17-01-2018	Kailash Chand Sharma	East	Pending	Desk	275	1	275
+18-01-2018	Radhey Shyam Sachdeva	East	Canceled	Pencil	3	20	60
+19-01-2018	Devender Kumar Sharma	East	Backorder	Pencil	3	35	105
+20-01-2018	Mr. Hera Lal	East	Backorder	Binder	5	81	405
+21-01-2018	Krishn Kant Joshi	East	Shipped	Desk	275	2	550
+22-01-2018	Madan Lal Shrama	East	Backorder	Desk	275	3	825
+23-01-2018	Anokha Kumar Misra	East	Canceled	Pen	2	56	112
+24-01-2018	Vinay Kumar Jain	East	Shipped	Binder	5	28	140
+25-01-2018	Mohd Javed Sideki	East	Backorder	Pencil	3	12	36
+26-01-2018	Pankaj  Kumar	East	Shipped	Pen Set	5	16	80
+27-01-2018	Mool Chand Sharma	East	Shipped	Pen Set	5	48	240
+28-01-2018	Sudhanshu Kumar Kiran	East	Pending	Pen	2	64	128
+29-01-2018	Kishor  Singh	East	Pending	Pen	2	15	30
+30-01-2018	Jeeth P K	East	Pending	Binder	5	71	355
+31-01-2018	Monu Alias Kallan	East	Shipped	Pen Set	5	96	480
+02-01-2018	Tanmay Dev Nath	East	Shipped	Desk	275	2	550
+02-02-2018	Shankar Parsad Shah	East	Canceled	Pencil	3	67	201
+02-03-2018	Nila Madhava Hagglund	East	Shipped	Pen Set	5	74	370
+02-04-2018	Dinesh Kumar Aggarwal	East	Shipped	Desk	275	5	1375
+02-05-2018	Manoj Kumar Agarwal	East	Backorder	Binder	5	46	230
+02-06-2018	Manish Kumar Mishra	East	Pending	Pen Set	5	99	495
+02-07-2018	Rana Partap Ahuja	East	Shipped	Pen	2	41	82
+02-08-2018	Rana Partap Ahuja	East	Canceled	Desk	275	1	275
+02-09-2018	Sunil Kuamr Jain	East	Shipped	Binder	5	87	435
+02-10-2018	Deepak Kumar Yadav	East	Pending	Pen Set	5	62	310
+02-11-2018	Shiv Mangal Rai	East	Shipped	Binder	5	4	20
+02-12-2018	Dinesh Chandra Bartwal	East	Shipped	Binder	5	7	35
+13-02-2018	Hom Prasad Tilija	East	Canceled	Binder	5	86	430
+14-02-2018	Vijay Kumar Raghav	East	Shipped	Pen Set	5	50	250
+15-02-2018	Kanwar Baljit Singh	East	Backorder	Pen Set	5	75	375
+16-02-2018	Mohd  Javed	East	Pending	Pencil	3	66	198
+17-02-2018	Satya Parkash Tiwari	East	Pending	Pencil	3	53	159
+18-02-2018	Kanwar Baljit Singh	East	Shipped	Binder	5	80	400
+19-02-2018	Shriram Asre Gupta	East	Shipped	Pen	2	96	192
+20-02-2018	Raj Kumar Sethi	East	Backorder	Pen Set	5	62	310
+21-02-2018	Bhanwar Lal Vesnav	East	Pending	Pen Set	5	68	340
+22-02-2018	Shoan Singh Kandari	East	Backorder	Desk	275	2	550
+23-02-2018	Moharan  Devi	East	Pending	Pen Set	5	55	275
+24-02-2018	Moharan  Devi	East	Shipped	Pencil	3	16	48
+25-02-2018	Vijay  Kumar	East	Pending	Pencil	3	68	204
+26-02-2018	Sh Pankaj Khurana	East	Backorder	Desk	275	5	1375
+27-02-2018	Narpendra Singh Negi	East	Shipped	Desk	275	2	550
+28-02-2018	Anoop Singh Rawat	East	Shipped	Pen Set	5	42	210
+03-01-2018	Dukhi Ram Sharma	East	Shipped	Pencil	3	7	21
+03-02-2018	Satya Prakash Bansal	East	Backorder	Binder	5	70	350
+03-03-2018	Deepak  Kumar	East	Pending	Desk	275	4	1100
+03-04-2018	Raj Kumar Saraf	East	Backorder	Pencil	3	42	126
+03-05-2018	Pavan Kumar Aggarwal	East	Shipped	Pen Set	5	29	145
+03-06-2018	Dilip Kumar Bhattacharjee	East	Shipped	Pen	2	76	152
+03-07-2018	Mahesh Chand Tiwari	East	Shipped	Pen	2	77	154
+01-11-2018	Prakash Lal Gupta	East	Shipped	Pencil	3	36	108
+01-12-2018	Daman Preet Singh	East	Shipped	Pencil	3	95	285
+13-01-2018	Heera Parsad Chouchan	East	Shipped	Binder	5	50	250
+14-01-2018	Kamal Kishore Sharma	East	Shipped	Binder	5	60	300
+15-01-2018	Puran  Singh	East	Shipped	Binder	5	27	135
+16-01-2018	Rajeev Kumar Sehti	East	Shipped	Pencil	3	56	168
+17-01-2018	Sanjeev Kumar Jha	East	Shipped	Pencil	3	90	270
+18-01-2018	Shohan Singh Soni	East	Shipped	Pencil	3	75	225
+19-01-2018	Mohd Asraf Ansari	East	Canceled	Pencil	3	32	96
+20-01-2018	Vinay Shankar Chobda	East	Shipped	Pen	2	74	148
+21-01-2018	Anil Kumar Yadav	East	Canceled	Binder	5	60	300
+22-01-2018	Kesri Prashad Sharma	East	Shipped	Desk	275	2	550
+23-01-2018	Kamal Kant Chouhan	East	Pending	Pencil	3	90	270
+24-01-2018	Bhanu Pratap Singh	East	Pending	Binder	5	29	145
+25-01-2018	Ashok Kumar Dalal	East	Pending	Desk	275	1	275
+26-01-2018	Ranjit Kumar Chopra	East	Canceled	Pencil	3	20	60
+27-01-2018	Ramdas Mahadw Kamble	East	Backorder	Pencil	3	35	105
+28-01-2018	Rupen Raj Pahwa	East	Backorder	Binder	5	81	405
+29-01-2018	Dharmender Singh Rawat	East	Shipped	Desk	275	2	550
+30-01-2018	Santosh Kumar Sukala	East	Backorder	Desk	275	3	825
+31-01-2018	Mr. Balveer Singh	East	Canceled	Pen	2	56	112
+02-01-2018	Inder Singh Bist	East	Shipped	Binder	5	28	140
+02-02-2018	Raju Alias Rajaram	East	Backorder	Pencil	3	12	36
+02-03-2018	Ezaz  Ahmed	East	Shipped	Pen Set	5	16	80
+02-04-2018	Rajputra Sudhakar Singh	East	Shipped	Pen Set	5	48	240
+02-05-2018	Shiv Kant Paswan	East	Pending	Pen	2	64	128
+02-06-2018	V. Rajan Thomas	East	Pending	Pen	2	15	30
+02-07-2018	Raja Kumar Thakur	East	Pending	Binder	5	71	355
+02-08-2018	Shrotam Sam Gosh	East	Shipped	Pen Set	5	96	480
+02-09-2018	Mr. Kamal Kumar	East	Shipped	Desk	275	2	550
+02-10-2018	Hari Shankar Pandey	East	Canceled	Pencil	3	67	201
+02-11-2018	Nej Bahadur Thapa	East	Shipped	Pen Set	5	74	370
+02-12-2018	Sachin Kumar Gupta	East	Shipped	Desk	275	5	1375
+13-02-2018	Mahesh Chand Gupta	East	Backorder	Binder	5	46	230
+14-02-2018	Sekha Nur Mohmad	East	Pending	Pen Set	5	99	495
+15-02-2018	Vikash Kumar Keshari	East	Shipped	Pen	2	41	82
+16-02-2018	Shri Ram Mehto	East	Canceled	Desk	275	1	275
+17-02-2018	Surya Kumar Saini	East	Shipped	Binder	5	87	435
+18-02-2018	Vijay Pal Singh	East	Pending	Pen Set	5	62	310
+19-02-2018	Vijay Pal Sani	East	Shipped	Binder	5	4	20
+20-02-2018	Shree Tulsi Ram	East	Shipped	Binder	5	7	35
+21-02-2018	Sanjeev Kumar Gupta	East	Canceled	Binder	5	86	430
+22-02-2018	Kaari Tafseer Alam	East	Shipped	Pen Set	5	50	250
+23-02-2018	Arun Kumar Jain	East	Backorder	Pen Set	5	75	375
+24-02-2018	Bhola Dutt Maithani	East	Pending	Pencil	3	66	198
+25-02-2018	Bhudhi Prakash Gahlot	East	Pending	Pencil	3	53	159
+26-02-2018	Hazi Abdul Samad	East	Shipped	Binder	5	80	400
+27-02-2018	Sh Prem Singh	East	Shipped	Pen	2	96	192
+28-02-2018	Samsung S Singh	East	Backorder	Pen Set	5	62	310
+03-01-2018	Mr. Ashok Kumar	East	Pending	Pen Set	5	68	340
+03-02-2018	Narain Dass Khurana	East	Backorder	Desk	275	2	550
+03-03-2018	Hari Ram Sani	East	Pending	Pen Set	5	55	275
+03-04-2018	Abash Rajan Jha	East	Shipped	Pencil	3	16	48
+03-05-2018	Sanjay Kumar Kukreja	East	Pending	Pencil	3	68	204
+03-06-2018	Rakesh Kumar Soni	East	Backorder	Desk	275	5	1375
+03-07-2018	Kailash Chand Jain	East	Shipped	Desk	275	2	550
+01-11-2018	Sh. Manish Puri	East	Shipped	Pen Set	5	42	210
+01-12-2018	Satya Prakesh Malani	East	Shipped	Pencil	3	7	21
+13-01-2018	Ram Kumar Sharma	East	Backorder	Binder	5	70	350
+14-01-2018	Vishnu Parshad Sharma	East	Pending	Desk	275	4	1100
+15-01-2018	Kamal Kishor Radhey	East	Backorder	Pencil	3	42	126
+16-01-2018	Gopi Chand Jain	East	Shipped	Pen Set	5	29	145
+17-01-2018	Brij Bhusan Sharma	East	Shipped	Pen	2	76	152
+18-01-2018	Krish Topar Jon	East	Shipped	Pen	2	77	154
+19-01-2018	Vikram Kumar Nayar	East	Shipped	Pencil	3	36	108
+20-01-2018	Vijendra Singh Rajawat	East	Shipped	Pencil	3	95	285
+21-01-2018	Mohd.  Asif	East	Shipped	Binder	5	50	250
+22-01-2018	Rajesh Kumar Paswan	East	Shipped	Binder	5	60	300
+23-01-2018	Chanda Lal Soni	East	Shipped	Binder	5	27	135
+24-01-2018	Anikt Kumar Singh	East	Shipped	Pencil	3	56	168
